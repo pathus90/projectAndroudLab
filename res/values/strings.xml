@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LabyBoomZomm</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_splash">Splash</string>
+    <string name="title_activity_levels_main">LevelsMainActivity</string>
+    <string name="titre">lABY ZOOM BOOM</string>
+    <string name="title_activity_main_activityi">MainActivityi</string>
+    <string name="title_activity_main_activity_levels">MainActivityLevels</string>
+    <string name="title_activity_level1">Level1</string>
+    <string name="img1">image1</string>
+    <string name="img2">image2</string>
+    <string name="img3">image3</string>
+    <string name="zoom">LABY BOOM ZOOM</string>
+    <string name="selectionner">SELECTIONNER UN NIVEAU</string>
+    <string name="title_activity_apropos">Apropos</string>
+
+</resources>
